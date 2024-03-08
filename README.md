@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emma1911
+- 👋 Hi, I’m emna
 - 👀 I’m interested in Angular 
-- 🌱 I’m currently learning Angular an Java
+- 🌱 I’m currently learning Angular and Java
 - 💞️ I’m looking to collaborate on some projects
 
 <!---
